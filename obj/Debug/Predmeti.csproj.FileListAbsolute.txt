@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\bin\Debug\Predmeti.exe.config
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\bin\Debug\Predmeti.exe
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\bin\Debug\Predmeti.pdb
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\obj\Debug\Predmeti.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\obj\Debug\Predmeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\obj\Debug\Predmeti.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\obj\Debug\Predmeti.exe
+C:\Users\STUDENTS-STEM-15\Desktop\Predmeti\obj\Debug\Predmeti.pdb
+D:\Predmeti\bin\Debug\Predmeti.exe.config
+D:\Predmeti\bin\Debug\Predmeti.exe
+D:\Predmeti\bin\Debug\Predmeti.pdb
+D:\Predmeti\obj\Debug\Predmeti.csproj.AssemblyReference.cache
+D:\Predmeti\obj\Debug\Predmeti.csproj.CoreCompileInputs.cache
+D:\Predmeti\obj\Debug\Predmeti.exe
+D:\Predmeti\obj\Debug\Predmeti.pdb
